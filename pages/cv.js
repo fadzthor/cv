@@ -43,7 +43,7 @@ export default function CV() {
           </h2>
           <div className="space-y-2 mt-2">
             <div>
-              <p className="font-medium">Frontend Developer - PT Inovasi</p>
+              <p className="font-medium">Frontend Developer - PT BCD</p>
               <p className="text-sm text-gray-500">2022 - Sekarang</p>
             </div>
             <div>
